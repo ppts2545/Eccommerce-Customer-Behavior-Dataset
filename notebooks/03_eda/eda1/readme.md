@@ -29,6 +29,7 @@ Purchase behavior
     - Average_Order_Value
     - Days_Since_Last_Purchase
     - Discount_Usage_Rate
+    - Cart_Abandonment_Rate
 
 วัดว่า ลูกค้าซื้อบ่อยไหม , ซื้อครั้งล่าสุดนานหรือยัง
 
