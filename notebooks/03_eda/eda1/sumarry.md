@@ -4,6 +4,7 @@ Strong signals
 
     - Customer_Service_Calls
     - Cart_Abandonment_Rate
+    - Days_Since_Last_Purchase
 
 Moderate signals
 
@@ -14,7 +15,6 @@ Moderate signals
 Weak signals
 
     - Total_Purchases
-    - Days_Since_Last_Purchase
     - Wishlist_Items
 
 Minimal impact
